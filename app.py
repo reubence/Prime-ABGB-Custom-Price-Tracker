@@ -1,15 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
-import smtplib
 import pandas as pd
 import dash
 from dash.dependencies import Input, Output, State
 import dash_html_components as html
 import dash_core_components as dcc
-import flask
 import pandas as pd
 import dash_bootstrap_components as dbc
-import dash_table as dt
 
 data = pd.read_csv("dataset/Links.csv")
 

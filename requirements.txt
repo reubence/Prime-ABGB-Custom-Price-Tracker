@@ -6,4 +6,5 @@ dash-html-components>=0.6.0
 dash-core-components>=0.5.0
 dash-bootstrap-components
 requests
+bs4
 xlrd
