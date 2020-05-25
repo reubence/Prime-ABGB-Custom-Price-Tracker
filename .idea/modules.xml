@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Calendar-Web-App/.idea/Calendar-Web-App.iml" filepath="$PROJECT_DIR$/../Calendar-Web-App/.idea/Calendar-Web-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tracking Product Prices app.iml" filepath="$PROJECT_DIR$/.idea/Tracking Product Prices app.iml" />
+    </modules>
+  </component>
+</project>
