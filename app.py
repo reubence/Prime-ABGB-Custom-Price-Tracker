@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 import dash
 import flask
+import time
 from dash.dependencies import Input, Output, State
 import dash_html_components as html
 import dash_core_components as dcc
@@ -20,7 +21,7 @@ app = dash.Dash(__name__, server=server, external_stylesheets=[dbc.themes.BOOTST
                 suppress_callback_exceptions=True)
 
 app.layout = html.Div(children=[
-    dbc.Row(dbc.Col(html.H1("Price Tracker",style={"color":"primary"}))),
+    dbc.Row(dbc.Col(html.H1("Select Component from Dropdown to Track",style={"color":"primary"}))),
     dbc.Row([
         dbc.Col(
             dcc.Dropdown(
@@ -34,7 +35,7 @@ app.layout = html.Div(children=[
             )
         ,width = 2),
         dbc.Col(
-            html.Div(id="jumbo-1"),
+            dbc.Spinner(html.Div(id="jumbo-1"),color = "primary"),
             width=10
         )])
 ]
@@ -44,6 +45,7 @@ app.layout = html.Div(children=[
 @app.callback(Output("jumbo-1", "children"),
               [Input("dd", "value")])
 def check_prices(value):
+    time.sleep(1)
     data = pd.read_csv("dataset/Links.csv")
     if value == "ram":
         y = data['ram']
