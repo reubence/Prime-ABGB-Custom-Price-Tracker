@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import dash
+import flask
 from dash.dependencies import Input, Output, State
 import dash_html_components as html
 import dash_core_components as dcc
