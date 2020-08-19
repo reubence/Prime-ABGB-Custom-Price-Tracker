@@ -61,7 +61,7 @@ There are many great apps available on the internet to track prices of big e-com
 
 Hence, I created this very basic price tracker app to help me track the prices of multiple products which I was looking to purchase. This app even helped me to catch some discounts, that I would've otherwise missed, through which I saved approximately 10,000 INR :smile:.
 
-Of course, this oversimplified version of the app will not serve all of you, since your needs may be different. So I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+Of course this oversimplified version of the app will not serve all of you, since your needs may be different. So I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
 ### Built With
 
@@ -78,42 +78,14 @@ First things first, this project is configured to track very few products which 
 Before we begin, you need a couple of things installed...
 * Download and Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) and type the following to log into your heroku account ```heroku login ```. 
 * Download and Install [git](https://git-scm.com/downloads)
-
-After Downloading git, you can run these commands to set your **username** and **password**.
-```
-git config --global user.email "your_email_address@example.com" 
-git config user.password "your password" 
-``` 
-<!--```sh
-npm install npm@latest -g
-```-->
-
-### Installation
-
-1. Scroll to the top of this page, and click on the **Use This Template** button to create your own repo using this template.
-2. Connect the remote repo to your local machine using ``` git remote add origin <remote-repo-url> ```
+* ``` pip install dash ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. Edit the ***server.py*** file in the repo to add your own python scripts. 
-2. If you've used any external packages you need to mention them in the ***requirements.txt*** file. 
-3. If you've changed the name of the file in **Step 1** then you need to edit it in the ***Procfile*** as well.
-```worker: python file-name.py```
-4. To deploy to heroku, follow the usual steps for any heroku deployment.
-```
-git add.
-git commit -m"Heroku push"
-heroku create
-git push heroku master
-```
-5. Now, once deployed, we need to give a command to heroku to start the worker process. (Your script won't start executing unless you run this line in terminal)
-```
-heroku ps:scale worker=1
-```
-Additionally, you can also tell heroku to stop executing once you have got your output by running the command
-```heroku ps:scale worker=0```
-
+1. Fork This Repo, and clone it locally using git.
+2. In the dataset folder and change the ***Links.csv*** file by replacing the URL's in it with your own product URLs taken from PrimeABGB's website. 
+3. Follow the usual steps for deployment to heroku and deploy your version of the app. It should be able to tell you the prices in one page.
 
 
 <!-- ROADMAP 
@@ -173,18 +145,18 @@ Project Link: [https://github.com/reubence/Heroku-Script-Deployment-Template](ht
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[last-activity-shield]: https://img.shields.io/github/last-commit/reubence/Heroku-Script-Deployment-Template?style=flat-square
+[last-activity-shield]: https://img.shields.io/github/last-commit/reubence/Prime-ABGB-Custom-Price-Tracker?style=flat-square
 [last-activity-url]: https://github.com/reubence
-[contributors-shield]: https://img.shields.io/github/contributors/reubence/Heroku-Script-Deployment-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/reubence/Prime-ABGB-Custom-Price-Tracker.svg?style=flat-square
 [contributors-url]: https://github.com/reubence
-[forks-shield]: https://img.shields.io/github/forks/reubence/Heroku-Script-Deployment-Template.svg?style=flat-square
-[forks-url]: https://github.com/reubence/Heroku-Script-Deployment-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/reubence/Heroku-Script-Deployment-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/reubence/Prime-ABGB-Custom-Price-Tracker.svg?style=flat-square
+[forks-url]: https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker/network/members
+[stars-shield]: https://img.shields.io/github/stars/reubence/Prime-ABGB-Custom-Price-Tracker.svg?style=flat-square
 [stars-url]: https://github.com/reubence/heroku-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/reubence/Heroku-Script-Deployment-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/reubence/Prime-ABGB-Custom-Price-Tracker.svg?style=flat-square
 [issues-url]: https://github.com/reubence/heroku-template/issues
-[license-shield]: https://img.shields.io/github/license/reubence/Heroku-Script-Deployment-Template.svg?style=flat-square
-[license-url]: https://github.com/reubence/Heroku-Script-Deployment-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/reubence/Prime-ABGB-Custom-Price-Tracker.svg?style=flat-square
+[license-url]: https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/reubence/
 [product-screenshot]: https://lh3.googleusercontent.com/proxy/l3Fi5jqPd6axyq2qRIgC_LqGaQgY4TplQuqMBctQlzhH2wEidEIbA2BNpVOrSC7idwzDB6G_pm-tLvZMbJa6BVznty5hQH7XlSWe4XjbHO_tAgO7H7o4-3IUERI6Kqgs
