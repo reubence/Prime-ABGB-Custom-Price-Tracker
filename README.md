@@ -57,9 +57,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great apps available on the internet to track prices of big e-commerce sites such as Amazon and Flipkart, however, I didn't find one that was configured to track price of PrimeABGB which is an Indian vendor that sells computer parts and other electronice. So I created this very basic price tracker app which helped me track the prices of certain computer parts which I was looking to purchase. I even managed to bag some discounts that helped me save 5,000 INR :smile:.
+There are many great apps available on the internet to track prices of big e-commerce sites such as Amazon and Flipkart, however, I didn't find one that was configured to track prices of PrimeABGB; an Indian vendor that sells computer parts and other electronics from stores across India. 
 
-Of course, this oversimplified version of the app will not serve you well, since your needs may be different. So I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+Hence, I created this very basic price tracker app to help me track the prices of multiple products which I was looking to purchase. This app even helped me to catch some discounts, that I would've otherwise missed, through which I saved approximately 10,000 INR :smile:.
+
+Of course, this oversimplified version of the app will not serve all of you, since your needs may be different. So I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
 ### Built With
 
