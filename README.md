@@ -31,7 +31,7 @@
     <a href="https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker"><strong>Explore the docs »</strong></a> -->
     <br />
     <br />
-    <a href="https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker">View Demo</a>
+    <a href="https://price-tracker-abgb.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker/issues">Report Bug</a>
     ·
@@ -78,7 +78,7 @@ First things first, this project is configured to track very few products which 
 Before we begin, you need a couple of things installed...
 * Download and Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) and type the following to log into your heroku account ```heroku login ```. 
 * Download and Install [git](https://git-scm.com/downloads)
-* ``` pip install dash ```
+* ``` pip install requirements.txt```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -98,7 +98,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Reuben Rapose - [@reubence](https://www.linkedin.com/in/reubence/) - reuben.rapose@gmail.com
 
-Project Link: [https://github.com/reubence/Heroku-Script-Deployment-Template](https://github.com/reubence/Heroku-Script-Deployment-Template)
+Project Link: [https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker](https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker)
 
 
 
