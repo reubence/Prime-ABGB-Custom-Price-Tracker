@@ -56,6 +56,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p align="center">
+  <a href="https://price-tracker-abgb.herokuapp.com/">
+    <img src="dataset/img.png" alt="Logo" >
+  </a>
+  <p align="center">
+
 
 There are many great toold available on the internet to track prices of big e-commerce sites such as Amazon or Flipkart, however, I didn't find one that was configured to track prices of PrimeABGB; an Indian vendor that sells computer parts and other electronics stores across India. 
 
