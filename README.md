@@ -60,6 +60,7 @@
   <a href="https://price-tracker-abgb.herokuapp.com/">
     <img src="dataset/img.png" alt="Logo" >
   </a>
+ <h5 align="center">A Snapshot of the web-app</h5>
   <p align="center">
 
 
