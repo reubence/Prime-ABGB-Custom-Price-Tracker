@@ -89,6 +89,8 @@ Before we begin, you need a couple of things installed...
 
 Now you can visit the deployed app anytime during and check prices of all products at a glance.
 
+You could go further and use the Gmail API to configure the app to send a message as the prices fall down below a certain level.
+
 <!-- ROADMAP 
 ## Roadmap
 
@@ -119,7 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Reuben Rapose - [@reubence](https://www.linkedin.com/in/reubence/) - reuben.rapose@gmail.com
+Reuben Rapose - [LinkedIn](https://www.linkedin.com/in/reubence/) - reuben.rapose@gmail.com
 
 Project Link: [https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker](https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker)
 
