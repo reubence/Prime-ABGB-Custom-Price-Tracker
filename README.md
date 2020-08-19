@@ -57,12 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center">
-  <a href="https://github.com/reubence/heroku-template">
-    <img src=images/img.png alt="Logo" >
-  </a> <!--[![Product Name Screen Shot][product-screenshot]](https://example.com) --></p>
-
-There are many great heroku templates available on GitHub, however, I didn't find one that was configured to host and run python scripts quickly on heroku (on a worker dyno) so I created this enhanced one. <!-- I want to create a deployment template so amazing that it'll be the last one you ever need.-->
+There are many great apps available on the internet to track prices of big e-commerce sites such as Amazon and Flipkart, however, I didn't find one that was configured to track price of PrimeABGB which is an Indian vendor that sells computer parts and other electronice. So I created this very basic price tracker app which helped me track the prices of certain computer parts which I was looking to purchase. I even managed to bag some discounts that helped me save 5,000 INR :smile: .
 <!-- adsa-->
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others.
