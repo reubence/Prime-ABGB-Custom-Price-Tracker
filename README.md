@@ -57,9 +57,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great apps available on the internet to track prices of big e-commerce sites such as Amazon and Flipkart, however, I didn't find one that was configured to track prices of PrimeABGB; an Indian vendor that sells computer parts and other electronics from stores across India. 
+There are many great toold available on the internet to track prices of big e-commerce sites such as Amazon or Flipkart, however, I didn't find one that was configured to track prices of PrimeABGB; an Indian vendor that sells computer parts and other electronics stores across India. 
 
-Hence, I created this very basic price tracker app to help me track the prices of multiple products which I was looking to purchase. This app even helped me to catch some discounts, that I would've otherwise missed, through which I saved approximately 10,000 INR :smile:.
+Hence, I created this very basic price tracker app to help me track the prices of multiple products which I was planning on purchasing. This web-app helped me to catch some ongoing discounts, which I would've otherwise missed. In the end I saved approximately 10,000 INR :smile:.
 
 Of course this oversimplified version of the app will not serve all of you, since your needs may be different. So I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
@@ -87,6 +87,7 @@ Before we begin, you need a couple of things installed...
 2. In the dataset folder and change the ***Links.csv*** file by replacing the URL's in it with your own product URLs taken from PrimeABGB's website. 
 3. Follow the usual steps for deployment to heroku and deploy your version of the app. It should be able to tell you the prices in one page.
 
+Now you can visit the deployed app anytime during and check prices of all products at a glance.
 
 <!-- ROADMAP 
 ## Roadmap
