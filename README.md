@@ -57,27 +57,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great apps available on the internet to track prices of big e-commerce sites such as Amazon and Flipkart, however, I didn't find one that was configured to track price of PrimeABGB which is an Indian vendor that sells computer parts and other electronice. So I created this very basic price tracker app which helped me track the prices of certain computer parts which I was looking to purchase. I even managed to bag some discounts that helped me save 5,000 INR :smile: .
-<!-- adsa-->
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others.
-* You shouldn't be doing the same tasks over and over like preparing files for deployment on heroku from scratch.
-* You should reserve the DRY principles to the rest of your life :smile:
+There are many great apps available on the internet to track prices of big e-commerce sites such as Amazon and Flipkart, however, I didn't find one that was configured to track price of PrimeABGB which is an Indian vendor that sells computer parts and other electronice. So I created this very basic price tracker app which helped me track the prices of certain computer parts which I was looking to purchase. I even managed to bag some discounts that helped me save 5,000 INR :smile:.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+Of course, this oversimplified version of the app will now serve you well since your needs may be different. So I'll be adding more features in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
 ### Built With
 
 * [Heroku](https://heroku.com/)
-<!--*** [JQuery](https://jquery.com)
-*** [Laravel](https://laravel.com)-->
+* [Dash](https://plotly.com/dash/)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-First things first, this template is configured to host a worker dyno which allows you to host python scripts on heroku. You can modify this template to run a flask frontend by editing the procfile to ``` web: gunicorn app:server ``` (Renamed server.py file to app.py). Many templates and/or documentations are available online for the same. I'll be going over the steps to configure a worker dyno for hosting scripts on heroku only for the purposes of this guide.
-
+First things first, this project is configured to track very few products which you may/may not be looking to buy. So you'll have to tinker a bit with the code to add your products to the list in order to start tracking them.
 ### Prerequisites
 
 Before we begin, you need a couple of things installed...
