@@ -64,7 +64,7 @@
   <p align="center">
 
 
-There are many great toold available on the internet to track prices of big e-commerce sites such as Amazon or Flipkart, however, I didn't find one that was configured to track prices of PrimeABGB; an Indian vendor that sells computer parts and other electronics stores across India. 
+There are many great tools available on the internet to track prices of big e-commerce sites such as Amazon or Flipkart, however, I didn't find one that was configured to track prices of PrimeABGB; an Indian vendor that sells computer parts and other electronics stores across India. 
 
 Hence, I created this very basic price tracker app to help me track the prices of multiple products which I was planning on purchasing. This web-app helped me to catch some ongoing discounts, which I would've otherwise missed. In the end I saved approximately 10,000 INR :smile:.
 
