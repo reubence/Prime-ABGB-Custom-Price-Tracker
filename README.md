@@ -96,12 +96,19 @@ Before we begin, you need a couple of things installed...
 
 Now you can visit the deployed app anytime during and check prices of all products at a glance.
 
-You could go further and use the Gmail API to configure the app to send a message as the prices fall down below a certain level.
-
 <!-- ROADMAP 
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+
+### Future Scope
+
+List of features that can be added:
+* Configure the app to notify the user on email or Telegram whenever the price falls below a certain threshold.
+* Develop a chrome extension that can allow a user to dynamically select prices to be tracked.
+* Make the whole UI easier to use.
+
+
 
 -->
 
