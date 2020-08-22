@@ -107,7 +107,7 @@ See the [open issues](https://github.com/reubence/Prime-ABGB-Custom-Price-Tracke
 
 List of features that can be added:
 * Configure the app to notify the user on email or Telegram whenever the price falls below a certain threshold.
-* Develop a chrome extension that can allow a user to dynamically select prices to be tracked.
+* Develop a chrome extension that can allow a user to dynamically select products to be tracked.
 * Make the whole UI easier to use.
 
 
