@@ -47,7 +47,9 @@
 * [About this Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)<!--* [Prerequisites](#prerequisites)  * [Installation](#installation)-->
-* [Usage](#usage)<!--* [Roadmap](#roadmap)-->
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+  * [Future Scope](#future-scope)
 * [Contributing](#contributing)<!--* [License](#license)-->
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -96,10 +98,10 @@ Before we begin, you need a couple of things installed...
 
 Now you can visit the deployed app anytime during and check prices of all products at a glance.
 
-<!-- ROADMAP 
+<!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/reubence/Prime-ABGB-Custom-Price-Tracker/issues) for a list of proposed features (and known issues).
 
 ### Future Scope
 
@@ -110,7 +112,7 @@ List of features that can be added:
 
 
 
--->
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
